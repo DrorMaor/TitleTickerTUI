@@ -1,0 +1,994 @@
+[
+	{
+		"id": 1,
+		"name": "Seattle Mariners",
+		"title": "World Series",
+		"lastTime": "1977-04-10 19:05:00",
+		"never": true,
+		"color": "#004B8D"
+	},
+	{
+		"id": 2,
+		"name": "Pittsburgh Pirates",
+		"title": "World Series",
+		"lastTime": "1979-10-17 22:00:00",
+		"never": false,
+		"color": "#D35400"
+	},
+	{
+		"id": 3,
+		"name": "Milwaukee Brewers",
+		"title": "World Series",
+		"lastTime": "1982-10-20 22:10:00",
+		"never": false,
+		"color": "#12284b"
+	},
+	{
+		"id": 4,
+		"name": "Baltimore Orioles",
+		"title": "World Series",
+		"lastTime": "1983-10-16 19:30:00",
+		"never": false,
+		"color": "#DF4601"
+	},
+	{
+		"id": 5,
+		"name": "Cincinnati Reds",
+		"title": "World Series",
+		"lastTime": "1990-10-20 19:59:00",
+		"never": false,
+		"color": "#C6011F"
+	},
+	{
+		"id": 6,
+		"name": "Athletics",
+		"title": "World Series",
+		"lastTime": "1990-10-20 19:59:00",
+		"never": false,
+		"color": "#00352d"
+	},
+	{
+		"id": 7,
+		"name": "Minnesota Twins",
+		"title": "World Series",
+		"lastTime": "1991-10-27 20:10:00",
+		"never": false,
+		"color": "#091f40"
+	},
+	{
+		"id": 8,
+		"name": "Toronto Blue Jays",
+		"title": "World Series",
+		"lastTime": "1993-10-23 22:42:00",
+		"never": false,
+		"color": "#1D2D5C"
+	},
+	{
+		"id": 9,
+		"name": "San Diego Padres",
+		"title": "World Series",
+		"lastTime": "1998-10-21 19:50:00",
+		"never": false,
+		"color": "#3E322D"
+	},
+	{
+		"id": 10,
+		"name": "Los Angeles Angels",
+		"title": "World Series",
+		"lastTime": "2002-10-27 19:32:00",
+		"never": false,
+		"color": "#BA0021"
+	},
+	{
+		"id": 11,
+		"name": "Miami Marlins",
+		"title": "World Series",
+		"lastTime": "2003-10-25 22:25:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 12,
+		"name": "Chicago White Sox",
+		"title": "World Series",
+		"lastTime": "2005-10-26 22:21:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 13,
+		"name": "Colorado Rockies",
+		"title": "World Series",
+		"lastTime": "2007-10-28 20:32:00",
+		"never": false,
+		"color": "#33006F"
+	},
+	{
+		"id": 14,
+		"name": "Detroit Tigers",
+		"title": "World Series",
+		"lastTime": "2012-10-28 22:45:00",
+		"never": false,
+		"color": "#FF6600"
+	},
+	{
+		"id": 15,
+		"name": "St. Louis Cardinals",
+		"title": "World Series",
+		"lastTime": "2013-10-30 22:45:00",
+		"never": false,
+		"color": "#C41E3A"
+	},
+	{
+		"id": 16,
+		"name": "San Francisco Giants",
+		"title": "World Series",
+		"lastTime": "2014-10-29 21:32:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 17,
+		"name": "Kansas City Royals",
+		"title": "World Series",
+		"lastTime": "2015-11-01 22:50:00",
+		"never": false,
+		"color": "#004687"
+	},
+	{
+		"id": 18,
+		"name": "New York Mets",
+		"title": "World Series",
+		"lastTime": "2015-11-01 22:50:00",
+		"never": false,
+		"color": "#FF5910"
+	},
+	{
+		"id": 19,
+		"name": "Chicago Cubs",
+		"title": "World Series",
+		"lastTime": "2016-11-03 00:05:00",
+		"never": false,
+		"color": "#CC3433"
+	},
+	{
+		"id": 20,
+		"name": "Cleveland Guardians",
+		"title": "World Series",
+		"lastTime": "2016-11-03 00:05:00",
+		"never": false,
+		"color": "#E31937"
+	},
+	{
+		"id": 21,
+		"name": "Boston Red Sox",
+		"title": "World Series",
+		"lastTime": "2018-10-28 22:35:00",
+		"never": false,
+		"color": "#BD3039"
+	},
+	{
+		"id": 22,
+		"name": "Washington Nationals",
+		"title": "World Series",
+		"lastTime": "2019-10-29 21:55:00",
+		"never": false,
+		"color": "#AB0003"
+	},
+	{
+		"id": 23,
+		"name": "Tampa Bay Rays",
+		"title": "World Series",
+		"lastTime": "2020-10-27 21:39:00",
+		"never": false,
+		"color": "#092C5C"
+	},
+	{
+		"id": 24,
+		"name": "Atlanta Braves",
+		"title": "World Series",
+		"lastTime": "2021-11-02 21:45:00",
+		"never": false,
+		"color": "#CE1141"
+	},
+	{
+		"id": 25,
+		"name": "Houston Astros",
+		"title": "World Series",
+		"lastTime": "2022-11-05 21:15:00",
+		"never": false,
+		"color": "#002D62"
+	},
+	{
+		"id": 26,
+		"name": "Philadelphia Phillies",
+		"title": "World Series",
+		"lastTime": "2022-11-05 21:15:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 27,
+		"name": "Arizona Diamondbacks",
+		"title": "World Series",
+		"lastTime": "2023-11-01 19:52:00",
+		"never": false,
+		"color": "#A71930"
+	},
+	{
+		"id": 28,
+		"name": "Texas Rangers",
+		"title": "World Series",
+		"lastTime": "2023-11-01 19:52:00",
+		"never": false,
+		"color": "#003278"
+	},
+	{
+		"id": 29,
+		"name": "Los Angeles Dodgers",
+		"title": "World Series",
+		"lastTime": "2024-10-30 22:47:00",
+		"never": false,
+		"color": "#023585"
+	},
+	{
+		"id": 30,
+		"name": "New York Yankees",
+		"title": "World Series",
+		"lastTime": "2024-10-30 22:47:00",
+		"never": false,
+		"color": "#132448"
+	},
+	{
+		"id": 100,
+		"name": "Charlotte Hornets",
+		"title": "NBA Finals",
+		"lastTime": "1988-10-01 19:00:00",
+		"never": true,
+		"color": "#1D1160"
+	},
+	{
+		"id": 101,
+		"name": "Portland Trail Blazers",
+		"title": "NBA Finals",
+		"lastTime": "1992-06-14 22:00:00",
+		"never": false,
+		"color": "#BD3039"
+	},
+	{
+		"id": 102,
+		"name": "Houston Rockets",
+		"title": "NBA Finals",
+		"lastTime": "1995-06-14 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 103,
+		"name": "Memphis Grizzlies",
+		"title": "NBA Finals",
+		"lastTime": "1995-10-01 19:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 104,
+		"name": "Utah Jazz",
+		"title": "NBA Finals",
+		"lastTime": "1998-06-14 22:00:00",
+		"never": false,
+		"color": "#BD3039"
+	},
+	{
+		"id": 105,
+		"name": "Chicago Bulls",
+		"title": "NBA Finals",
+		"lastTime": "1998-06-14 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 106,
+		"name": "New York Knicks",
+		"title": "NBA Finals",
+		"lastTime": "1999-06-25 22:00:00",
+		"never": false,
+		"color": "#1D428A"
+	},
+	{
+		"id": 107,
+		"name": "Indiana Pacers",
+		"title": "NBA Finals",
+		"lastTime": "2000-06-19 22:00:00",
+		"never": false,
+		"color": "#002D62"
+	},
+	{
+		"id": 108,
+		"name": "Philadelphia 76ers",
+		"title": "NBA Finals",
+		"lastTime": "2001-06-15 22:00:00",
+		"never": false,
+		"color": "#1D428A"
+	},
+	{
+		"id": 109,
+		"name": "New Orleans Pelicans",
+		"title": "NBA Finals",
+		"lastTime": "2002-10-01 19:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 110,
+		"name": "Brooklyn Nets",
+		"title": "NBA Finals",
+		"lastTime": "2003-06-15 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 111,
+		"name": "Detroit Pistons",
+		"title": "NBA Finals",
+		"lastTime": "2005-06-23 22:00:00",
+		"never": false,
+		"color": "#1D428A"
+	},
+	{
+		"id": 112,
+		"name": "Orlando Magic",
+		"title": "NBA Finals",
+		"lastTime": "2009-06-14 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 113,
+		"name": "Oklahoma City Thunder",
+		"title": "NBA Finals",
+		"lastTime": "2012-06-21 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 114,
+		"name": "San Antonio Spurs",
+		"title": "NBA Finals",
+		"lastTime": "2014-06-15 22:00:00",
+		"never": false,
+		"color": "#BD3039"
+	},
+	{
+		"id": 115,
+		"name": "Cleveland Cavaliers",
+		"title": "NBA Finals",
+		"lastTime": "2018-06-08 22:00:00",
+		"never": false,
+		"color": "#860038"
+	},
+	{
+		"id": 116,
+		"name": "Toronto Raptors",
+		"title": "NBA Finals",
+		"lastTime": "2019-06-13 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 117,
+		"name": "Los Angeles Lakers",
+		"title": "NBA Finals",
+		"lastTime": "2020-10-11 22:00:00",
+		"never": false,
+		"color": "#31006F"
+	},
+	{
+		"id": 118,
+		"name": "Milwaukee Bucks",
+		"title": "NBA Finals",
+		"lastTime": "2021-07-20 22:00:00",
+		"never": false,
+		"color": "#00471B"
+	},
+	{
+		"id": 119,
+		"name": "Phoenix Suns",
+		"title": "NBA Finals",
+		"lastTime": "2021-07-20 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 120,
+		"name": "Golden State Warriors",
+		"title": "NBA Finals",
+		"lastTime": "2022-06-16 23:59:00",
+		"never": false,
+		"color": "#1D428A"
+	},
+	{
+		"id": 121,
+		"name": "Denver Nuggets",
+		"title": "NBA Finals",
+		"lastTime": "2023-06-12 22:57:00",
+		"never": false,
+		"color": "#0E2240"
+	},
+	{
+		"id": 122,
+		"name": "Miami Heat",
+		"title": "NBA Finals",
+		"lastTime": "2023-06-12 22:57:00",
+		"never": false,
+		"color": "#98002E"
+	},
+	{
+		"id": 123,
+		"name": "Dallas Mavericks",
+		"title": "NBA Finals",
+		"lastTime": "2024-06-17 22:57:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 124,
+		"name": "Boston Celtics",
+		"title": "NBA Finals",
+		"lastTime": "2024-06-17 22:57:00",
+		"never": false,
+		"color": "#008348"
+	},
+	{
+		"id": 31,
+		"name": "Detroit Lions",
+		"title": "Super Bowl",
+		"lastTime": "1930-10-01 13:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 32,
+		"name": "Cleveland Browns",
+		"title": "Super Bowl",
+		"lastTime": "1946-10-01 13:00:00",
+		"never": true,
+		"color": "#311D00"
+	},
+	{
+		"id": 33,
+		"name": "New York Jets",
+		"title": "Super Bowl",
+		"lastTime": "1969-01-12 18:05:00",
+		"never": false,
+		"color": "#115740"
+	},
+	{
+		"id": 34,
+		"name": "Minnesota Vikings",
+		"title": "Super Bowl",
+		"lastTime": "1977-01-09 18:05:00",
+		"never": false,
+		"color": "#4F2683"
+	},
+	{
+		"id": 35,
+		"name": "Miami Dolphins",
+		"title": "Super Bowl",
+		"lastTime": "1985-01-20 18:05:00",
+		"never": false,
+		"color": "#005778"
+	},
+	{
+		"id": 36,
+		"name": "Washington Commanders",
+		"title": "Super Bowl",
+		"lastTime": "1992-01-26 18:05:00",
+		"never": false,
+		"color": "#5A1414"
+	},
+	{
+		"id": 37,
+		"name": "Buffalo Bills",
+		"title": "Super Bowl",
+		"lastTime": "1994-01-30 18:05:00",
+		"never": false,
+		"color": "#00338D"
+	},
+	{
+		"id": 38,
+		"name": "Jacksonville Jaguars",
+		"title": "Super Bowl",
+		"lastTime": "1995-10-01 13:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 39,
+		"name": "Los Angeles Chargers",
+		"title": "Super Bowl",
+		"lastTime": "1995-01-29 18:05:00",
+		"never": false,
+		"color": "#0080C6"
+	},
+	{
+		"id": 40,
+		"name": "Dallas Cowboys",
+		"title": "Super Bowl",
+		"lastTime": "1996-01-28 18:05:00",
+		"never": false,
+		"color": "#002244"
+	},
+	{
+		"id": 41,
+		"name": "Tennessee Titans",
+		"title": "Super Bowl",
+		"lastTime": "2000-01-30 18:05:00",
+		"never": false,
+		"color": "#002244"
+	},
+	{
+		"id": 42,
+		"name": "Houston Texans",
+		"title": "Super Bowl",
+		"lastTime": "2002-10-01 13:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 43,
+		"name": "Las Vegas Raiders",
+		"title": "Super Bowl",
+		"lastTime": "2003-01-26 18:05:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 44,
+		"name": "Chicago Bears",
+		"title": "Super Bowl",
+		"lastTime": "2007-02-04 18:05:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 45,
+		"name": "Arizona Cardinals",
+		"title": "Super Bowl",
+		"lastTime": "2009-02-01 18:05:00",
+		"never": false,
+		"color": "#97233F"
+	},
+	{
+		"id": 46,
+		"name": "New Orleans Saints",
+		"title": "Super Bowl",
+		"lastTime": "2010-02-07 18:05:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 47,
+		"name": "Indianapolis Colts",
+		"title": "Super Bowl",
+		"lastTime": "2010-02-07 18:05:00",
+		"never": false,
+		"color": "#013369"
+	},
+	{
+		"id": 48,
+		"name": "Green Bay Packers",
+		"title": "Super Bowl",
+		"lastTime": "2011-02-06 18:05:00",
+		"never": false,
+		"color": "#203731"
+	},
+	{
+		"id": 49,
+		"name": "Pittsburgh Steelers",
+		"title": "Super Bowl",
+		"lastTime": "2011-02-06 18:05:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 50,
+		"name": "New York Giants",
+		"title": "Super Bowl",
+		"lastTime": "2012-02-05 21:33:00",
+		"never": false,
+		"color": "#0B2265"
+	},
+	{
+		"id": 51,
+		"name": "Baltimore Ravens",
+		"title": "Super Bowl",
+		"lastTime": "2013-02-03 20:33:00",
+		"never": false,
+		"color": "#24135F"
+	},
+	{
+		"id": 52,
+		"name": "Seattle Seahawks",
+		"title": "Super Bowl",
+		"lastTime": "2015-02-01 19:33:00",
+		"never": false,
+		"color": "#002244"
+	},
+	{
+		"id": 53,
+		"name": "Carolina Panthers",
+		"title": "Super Bowl",
+		"lastTime": "2016-02-07 18:33:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 54,
+		"name": "Denver Broncos",
+		"title": "Super Bowl",
+		"lastTime": "2016-02-07 18:33:00",
+		"never": false,
+		"color": "#0A2343"
+	},
+	{
+		"id": 55,
+		"name": "Atlanta Falcons",
+		"title": "Super Bowl",
+		"lastTime": "2017-02-05 21:33:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 56,
+		"name": "New England Patriots",
+		"title": "Super Bowl",
+		"lastTime": "2018-02-13 21:33:45",
+		"never": false,
+		"color": "#002244"
+	},
+	{
+		"id": 57,
+		"name": "Tampa Bay Buccaneers",
+		"title": "Super Bowl",
+		"lastTime": "2019-02-03 21:33:00",
+		"never": false,
+		"color": "#A71930"
+	},
+	{
+		"id": 58,
+		"name": "Cincinnati Bengals",
+		"title": "Super Bowl",
+		"lastTime": "2022-02-13 18:33:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 59,
+		"name": "Los Angeles Rams",
+		"title": "Super Bowl",
+		"lastTime": "2022-02-13 18:33:00",
+		"never": false,
+		"color": "#003594"
+	},
+	{
+		"id": 60,
+		"name": "Philadelphia Eagles",
+		"title": "Super Bowl",
+		"lastTime": "2025-02-09 21:55:00",
+		"never": false,
+		"color": "#004851"
+	},
+	{
+		"id": 61,
+		"name": "San Francisco 49ers",
+		"title": "Super Bowl",
+		"lastTime": "2024-02-11 19:55:00",
+		"never": false,
+		"color": "#AA0000"
+	},
+	{
+		"id": 62,
+		"name": "Kansas City Chiefs",
+		"title": "Super Bowl",
+		"lastTime": "2025-02-09 21:55:00",
+		"never": false,
+		"color": "#E31837"
+	},
+	{
+		"id": 63,
+		"name": "Toronto Maple Leafs",
+		"title": "Stanley Cup",
+		"lastTime": "1967-05-07 22:00:00",
+		"never": false,
+		"color": "#00205B"
+	},
+	{
+		"id": 64,
+		"name": "Utah Hockey Club",
+		"title": "Stanley Cup",
+		"lastTime": "1979-10-01 19:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 65,
+		"name": "New York Islanders",
+		"title": "Stanley Cup",
+		"lastTime": "1984-05-19 22:00:00",
+		"never": false,
+		"color": "#00468B"
+	},
+	{
+		"id": 66,
+		"name": "Buffalo Sabres",
+		"title": "Stanley Cup",
+		"lastTime": "1999-06-19 22:00:00",
+		"never": false,
+		"color": "#003087"
+	},
+	{
+		"id": 67,
+		"name": "Winnipeg Jets",
+		"title": "Stanley Cup",
+		"lastTime": "1999-10-01 19:00:00",
+		"never": true,
+		"color": "#041E42"
+	},
+	{
+		"id": 68,
+		"name": "Columbus Blue Jackets",
+		"title": "Stanley Cup",
+		"lastTime": "2000-10-01 19:00:00",
+		"never": true,
+		"color": "#041E42"
+	},
+	{
+		"id": 69,
+		"name": "Minnesota Wild",
+		"title": "Stanley Cup",
+		"lastTime": "2000-10-01 19:00:00",
+		"never": true,
+		"color": "#0E4431"
+	},
+	{
+		"id": 70,
+		"name": "Calgary Flames",
+		"title": "Stanley Cup",
+		"lastTime": "2004-06-07 22:00:00",
+		"never": false,
+		"color": "#C8102E"
+	},
+	{
+		"id": 71,
+		"name": "Carolina Hurricanes",
+		"title": "Stanley Cup",
+		"lastTime": "2006-06-19 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 72,
+		"name": "Anaheim Ducks",
+		"title": "Stanley Cup",
+		"lastTime": "2007-06-06 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 73,
+		"name": "Ottawa Senators",
+		"title": "Stanley Cup",
+		"lastTime": "2007-06-06 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 74,
+		"name": "Detroit Red Wings",
+		"title": "Stanley Cup",
+		"lastTime": "2009-06-12 22:00:00",
+		"never": false,
+		"color": "#C8102E"
+	},
+	{
+		"id": 75,
+		"name": "Philadelphia Flyers",
+		"title": "Stanley Cup",
+		"lastTime": "2010-06-09 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 76,
+		"name": "Vancouver Canucks",
+		"title": "Stanley Cup",
+		"lastTime": "2011-06-15 22:00:00",
+		"never": false,
+		"color": "#00205B"
+	},
+	{
+		"id": 77,
+		"name": "New Jersey Devils",
+		"title": "Stanley Cup",
+		"lastTime": "2012-06-11 22:00:00",
+		"never": false,
+		"color": "#CC0000"
+	},
+	{
+		"id": 78,
+		"name": "Los Angeles Kings",
+		"title": "Stanley Cup",
+		"lastTime": "2014-06-13 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 79,
+		"name": "New York Rangers",
+		"title": "Stanley Cup",
+		"lastTime": "2014-06-13 22:00:00",
+		"never": false,
+		"color": "#154B94"
+	},
+	{
+		"id": 80,
+		"name": "Chicago Blackhawks",
+		"title": "Stanley Cup",
+		"lastTime": "2015-06-15 22:00:00",
+		"never": false,
+		"color": "#CE1126"
+	},
+	{
+		"id": 81,
+		"name": "San Jose Sharks",
+		"title": "Stanley Cup",
+		"lastTime": "2016-06-12 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 82,
+		"name": "Nashville Predators",
+		"title": "Stanley Cup",
+		"lastTime": "2017-06-11 22:00:00",
+		"never": false,
+		"color": "#041E42"
+	},
+	{
+		"id": 83,
+		"name": "Pittsburgh Penguins",
+		"title": "Stanley Cup",
+		"lastTime": "2017-06-11 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 84,
+		"name": "Washington Capitals",
+		"title": "Stanley Cup",
+		"lastTime": "2017-06-11 22:00:00",
+		"never": false,
+		"color": "#041E42"
+	},
+	{
+		"id": 85,
+		"name": "Boston Bruins",
+		"title": "Stanley Cup",
+		"lastTime": "2019-06-12 22:00:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 86,
+		"name": "St. Louis Blues",
+		"title": "Stanley Cup",
+		"lastTime": "2019-06-12 22:00:00",
+		"never": false,
+		"color": "#004986"
+	},
+	{
+		"id": 87,
+		"name": "Dallas Stars",
+		"title": "Stanley Cup",
+		"lastTime": "2020-09-20 22:00:00",
+		"never": false,
+		"color": "#00823E"
+	},
+	{
+		"id": 88,
+		"name": "Montreal Canadiens",
+		"title": "Stanley Cup",
+		"lastTime": "2021-07-07 22:00:00",
+		"never": false,
+		"color": "#A6192E"
+	},
+	{
+		"id": 89,
+		"name": "Seattle Kraken",
+		"title": "Stanley Cup",
+		"lastTime": "2021-10-01 19:00:00",
+		"never": true,
+		"color": "#000000"
+	},
+	{
+		"id": 90,
+		"name": "Colorado Avalanche",
+		"title": "Stanley Cup",
+		"lastTime": "2022-06-26 22:33:00",
+		"never": false,
+		"color": "#8A2432"
+	},
+	{
+		"id": 91,
+		"name": "Tampa Bay Lightning",
+		"title": "Stanley Cup",
+		"lastTime": "2022-06-26 22:33:00",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 92,
+		"name": "Vegas Golden Knights",
+		"title": "Stanley Cup",
+		"lastTime": "2023-06-13 22:33:44",
+		"never": false,
+		"color": "#000000"
+	},
+	{
+		"id": 93,
+		"name": "Edmonton Oilers",
+		"title": "Stanley Cup",
+		"lastTime": "2024-06-24 22:33:44",
+		"never": false,
+		"color": "#00205B"
+	},
+	{
+		"id": 94,
+		"name": "Florida Panthers",
+		"title": "Stanley Cup",
+		"lastTime": "2024-06-24 22:33:44",
+		"never": false,
+		"color": "#041E42"
+	},
+	{
+		"id": 95,
+		"name": "Sacramento Kings",
+		"title": "NBA Finals",
+		"lastTime": "1951-04-21 22:00:00",
+		"never": false,
+		"color": "#5A2D81"
+	},
+	{
+		"id": 96,
+		"name": "Atlanta Hawks",
+		"title": "NBA Finals",
+		"lastTime": "1961-04-11 22:00:00",
+		"never": false,
+		"color": "#C8102E"
+	},
+	{
+		"id": 97,
+		"name": "Los Angeles Clippers",
+		"title": "NBA Finals",
+		"lastTime": "1970-10-01 19:00:00",
+		"never": true,
+		"color": "#12173F"
+	},
+	{
+		"id": 98,
+		"name": "Washington Wizards",
+		"title": "NBA Finals",
+		"lastTime": "1979-06-01 22:00:00",
+		"never": false,
+		"color": "#002B5C"
+	},
+	{
+		"id": 99,
+		"name": "Minnesota Timberwolves",
+		"title": "NBA Finals",
+		"lastTime": "1989-10-01 19:00:00",
+		"never": true,
+		"color": "#0C233F"
+	}
+]
